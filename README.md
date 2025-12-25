@@ -1,7 +1,7 @@
 # Semiconductor Packaging
-This GitHub repository documents the [Semiconductor Packaging - Fundamentals of Design and Testing 10-days Workshop](https://www.vlsisystemdesign.com/packaging/) offered by [VSD Corp. Pvt. Ltd.](https://www.vlsisystemdesign.com/about-us/) attended from 9-20 May, 2025.  
+This GitHub repository documents the [Semiconductor Packaging - Fundamentals of Design and Testing 10-days Workshop](https://www.vlsisystemdesign.com/packaging/) offered by [VSD Corp. Pvt. Ltd.](https://www.vlsisystemdesign.com/about-us/) attended from 17th - 27th Dec, 2025.  
 
-The workshop offers a full-pipeline understanding of the semiconductor packaging process, starting from the fundamentals and evolution of packaging to advanced 2.5D/3D architectures. We gain insights into advanced interconnect technologies, RDLs & interposers,  assembly processes, package reliability analysis, and also get to perform hands-on thermal simulations, package design and modeling using ANSYS tools.
+This workshop provides a comprehensive end-to-end deep dive into semiconductor packaging, transitioning from foundational single-chip designs to advanced 2.5D/3D integration and wafer-level architectures. It covers the entire manufacturing lifecycle—including supply chain logistics, assembly processes like flip-chip and wire bonding, and rigorous reliability testing—to ensure electrical and thermal performance. Students also gain hands-on expertise using ANSYS Electronics Desktop to model, simulate, and validate complex package designs from the ground up.
 <br/>
 
 **Table of Contents**
